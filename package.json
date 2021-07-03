@@ -1,0 +1,20 @@
+{
+  "name": "node-basic-app",
+  "version": "1.0.0",
+  "description": "a repo for basic to adv node features",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "applications",
+    "express"
+  ],
+  "author": "Rohit kumar das",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
